@@ -26,7 +26,7 @@ Installation
 
 git clone https://github.com/Adityannn/PRODIGY_CS_01
 
-cd encdec
+cd PRODIGY_CS_01
 
 Install Requirements
 This project uses only the tkinter library, which comes pre-installed with most Python distributions. However, if you encounter issues, ensure you have Python 3.x installed.
