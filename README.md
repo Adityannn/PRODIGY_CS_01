@@ -24,7 +24,7 @@ Installation
 
     Clone the Repository
 
-git clone https://github.com/yourusername/caesar-cipher-gui.git
+git clone https://github.com/Adityannn/PRODIGY_CS_01
 cd encdec
 
 Install Requirements
